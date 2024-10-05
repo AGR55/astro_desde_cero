@@ -1,0 +1,10 @@
+.display {
+    height: 10vh;
+    width: 15rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 1vh;
+    font-size: 2rem;
+}

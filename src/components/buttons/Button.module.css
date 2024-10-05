@@ -1,0 +1,10 @@
+.buttons {
+    height: 7vh;
+    width: 9vh;
+    border: none;
+    border-radius: 5px;
+    background-color: #212121;
+    color: linen;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    font-family: 'JetBrains Mono';
+}
